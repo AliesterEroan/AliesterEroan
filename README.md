@@ -5,11 +5,10 @@
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=00ff00&lines=+>>>+LOADING+PLAYER+DATA...+;+>>>+CLASS:+AUTOMATION+ENGINEER;+>>>+SPECIALTY:+INDUSTRY+4.0;+>>>+STATUS:+QUESTING&center=true&vCenter=true&width=600&height=100" alt="Typing SVG">
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.dev/?visited&label=PLAYERS+VISITED&color=00ff00&style=flat-square" alt="Profile Views" />
+  <h3>>> LOADING PLAYER DATA...</h3>
+  <h3>>> CLASS: AUTOMATION ENGINEER</h3>
+  <h3>>> SPECIALTY: INDUSTRY 4.0</h3>
+  <h3>>> STATUS: QUESTING</h3>
 </div>
 
 ---
