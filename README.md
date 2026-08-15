@@ -1,173 +1,35 @@
-```rust
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-//  ◆ PLAYER PROFILE: ALIESTEREROAN ◆ LEVEL 25 ◆ CLASS: TECH-WIZARD ◆
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aliester Eroan
+=======================================================================================================================================
 
-<div align="center">
-  <h3>>> LOADING PLAYER DATA...</h3>
-  <h3>>> CLASS: AUTOMATION ENGINEER</h3>
-  <h3>>> SPECIALTY: INDUSTRY 4.0</h3>
-  <h3>>> STATUS: QUESTING</h3>
-</div>
+Specialist in Automation and Industrial Computing
+-------------------------------------------------
 
----
+Specialized in Automation and Industrial Computing, I engineer robust, end-to-end solutions that connect physical hardware with modern software architectures. My focus centers on building smart, connected systems—ranging from embedded IoT telemetry (ESP32, Raspberry Pi) and industrial messaging protocols (MQTT, Node-RED) to scalable MySQL databases and Machine Learning integration.
 
-## 🎮 CHARACTER STATS
+Beyond hardware integration, I develop custom desktop utilities and full-stack web applications to deliver seamless, user-centered control interfaces. I am passionate about applying automation technologies and clean code practices to solve complex engineering challenges across connected infrastructure.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  HP: ████████████████████████░░░░  420/500  🟢                   │
-│  MP: █████████████████░░░░░░░░░░  280/400  🔵                   │
-│  XP: ██████████████████████░░░░░  7840/10000 🟡                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+* 🌍  I'm based in Tunisia
+* ✉️  You can contact me at [mostfa.saadaoui@gmail.com](mailto:mostfa.saadaoui@gmail.com)
 
-```
-┌─────────────┬─────────────────┬─────────────────┬─────────────────┐
-│  STR ⚔️    │  INT 🧠         │  DEX 🎯         │  WIS �         │
-│  ━━━━━━━   │  ━━━━━━━━━      │  ━━━━━━━━━      │  ━━━━━━━━       │
-│  85/100    │  90/100         │  88/100         │  82/100         │
-│  Problem   │  Automation     │  IoT Systems    │  Industrial     │
-│  Solving   │  Intelligence   │  Mastery        │  Technology     │
-└─────────────┴─────────────────┴─────────────────┴─────────────────┘
-```
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
+</p>
 
----
+### Socials
 
-## �️ EQUIPPED GEAR
+<p align="left"> <a href="https://www.github.com/AliesterEroan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/AliesterEroan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/mohamed-mostfa-benabouda-513a25254" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/mohamed_mostfa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+### Badges
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  [⚔️ WEAPON] Python (Legendary)  🟡                            │
-│  └─ Primary language for all automation quests                  │
-├─────────────────────────────────────────────────────────────────┤
-│  [🛡️ ARMOR] ESP32 (Epic)  �                                     │
-│  └─ Embedded systems defense against hardware challenges        │
-├─────────────────────────────────────────────────────────────────┤
-│  [🔧 TOOL] Raspberry Pi (Epic)  🟣                               │
-│  └─ Swiss army knife for IoT development                       │
-├─────────────────────────────────────────────────────────────────┤
-│  [🗄️ IND] TIA Portal (Rare)  🔵                                 │
-│  └─ Industrial automation mastery tool                          │
-├─────────────────────────────────────────────────────────────────┤
-│  [🧠 ML] Machine Learning (Rare)  🔵                            │
-│  └─ Computer vision and AI capabilities                        │
-├─────────────────────────────────────────────────────────────────┤
-│  [⚡ C++] C/C++ (Rare)  🔵                                      │
-│  └─ Low-level system programming weapon                         │
-└─────────────────────────────────────────────────────────────────┘
-```
+<b>My GitHub Stats</b>
 
----
+<a href="http://www.github.com/AliesterEroan"><img src="https://github-readme-stats.vercel.app/api?username=AliesterEroan&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AliesterEroan's GitHub stats" /></a>
 
-## 🗺️ QUEST LOG (COMPLETED)
+<a href="https://github.com/AliesterEroan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliesterEroan&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### 📡 IoT Realm Quests
-- **[✓]** ESP32 WiFi/Bluetooth Mastery
-- **[✓]** MQTT Communication Protocol
-- **[✓]** Sensor Network Deployment
-- **[✓]** Weather Station Construction
-- **[✓]** QR Code Device Control
+<b>Top Repositories</b>
 
-### 🍓 Raspberry Pi Adventures
-- **[✓]** MQTT Integration Systems
-- **[✓]** Real-time Monitoring Apps
-- **[✓]** GPIO Control Mastery
-- **[✓]** Data Logging Systems
+<div width="100%" align="center"><a href="https://github.com/AliesterEroan/DiscordQuestManager" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AliesterEroan&repo=DiscordQuestManager&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AliesterEroan/ ESP32" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AliesterEroan&repo= ESP32&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-### 🏭 Industrial Dungeons
-- **[✓]** TIA Portal V16 Certification
-- **[✓]** Automated Transport Line (PFE)
-- **[✓]** Industrial Camera Systems
-- **[✓]** PLC Programming Mastery
+<br /><br /><br /><br /><br />
 
-### 🤖 Machine Learning Quests
-- **[✓]** HOG+SVM Object Detection
-- **[✓]** Computer Vision Systems
-- **[✓]** Real-time Recognition
-- **[✓]** Image Processing Magic
-
-### 🎮 Game Development
-- **[✓]** Dino Runner Game
-- **[✓]** Detective Mystery Game
-- **[✓]** Interactive Web Games
-- **[✓]** Data Visualization Dashboards
-
----
-
-## � PLAYER ACHIEVEMENTS
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🏆 TECHNICAL SKILLS TREE                                       │
-├─────────────────────────────────────────────────────────────────┤
-│  🔥 AUTOMATION & INDUSTRIAL COMPUTING [MAX]                      │
-│     └─ Smart manufacturing solutions unlocked                   │
-│  🌐 INDUSTRY 4.0 INTEGRATION [LV.8]                            │
-│     └─ Smart factory solutions mastered                        │
-│  🌡️ IOT SYSTEMS [LV.7]                                         │
-│     └─ Multi-node sensor networks deployed                     │
-│  🤖 COMPUTER VISION [LV.6]                                      │
-│     └─ HOG+SVM object detection unlocked                        │
-│  📊 WEB DASHBOARDS [LV.5]                                       │
-│     └─ Real-time monitoring interfaces created                  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## � ACTIVE QUESTS
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  [🚀] IoT Smart Home Hub - IN PROGRESS (45%)                    │
-│  [🤖] Face Recognition System - IN PROGRESS (30%)                │
-│  [🏭] Industrial IoT Monitoring - IN PROGRESS (60%)               │
-│  [🌐] Portfolio Website - IN PROGRESS (75%)                      │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🤝 GUILD ALLIANCES
-
-**Looking to party up for:**
-- 🏭 Industrial IoT Raids
-- 🤖 Machine Learning Expeditions  
-- 🌡️ Smart Home Automation Quests
-- 🏢 Web Dashboard Development
-- 🎮 Game Development Campaigns
-
----
-
-## � SOCIAL LINKS
-
-<div align="center">
-  <a href="https://github.com/AliesterEroan">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50">
-  </a>
-  <a href="https://twitter.com/AliesterEroan">
-    <img src="https://abs.twimg.com/favicons/twitter.ico" alt="Twitter" width="50" height="50">
-  </a>
-</div>
-
----
-
-<div align="center">
-  <p><b>⭐ STAR THIS QUEST LOG TO FOLLOW MY ADVENTURES!</b></p>
-  <p><b>🔭 PRESS FOLLOW TO JOIN MY PARTY!</b></p>
-</div>
-
----
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  >>> GAME SAVED <<<                                              │
-│  >>> EXP: 7840/10000 <<<                                        │
-│  >>> NEXT LEVEL: 26 <<<                                         │
-│  >>> CONTINUE QUESTING... <<<                                    │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-**Made with ❤️ by [AliesterEroan](https://github.com/AliesterEroan)**
+<div width="100%" align="center"><a href="https://github.com/AliesterEroan/Raspberry-pi" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AliesterEroan&repo=Raspberry-pi&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AliesterEroan/Automatism-TiaPortal" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AliesterEroan&repo=Automatism-TiaPortal&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
