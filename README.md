@@ -22,7 +22,4 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AliesterEroan&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=AliesterEroan&icon=1&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
