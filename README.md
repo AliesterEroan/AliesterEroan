@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AliesterEroan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Automation%20Specialist%20%7C%20Industrial%20Computing%20%7C%20IoT%20Specialist&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AliesterEroan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=PLCn%20Programmer%20%7C%20Automation%20Industrial%20Computing%20Specialist%20%7C%20IoT%20Specialist&descAlignY=60&descAlign=50" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+Smart+Automation+Systems;ESP32+%26+Raspberry+Pi+Expert;Machine+Learning+%26+IoT+Integration;Industrial+Automation+%26+Industry+4.0)](https://git.io/typing-svg)
 
@@ -22,7 +22,7 @@
 [![X](https://img.shields.io/badge/X-@AliesterEroan-4F46E5?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AliesterEroan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Mostfa-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-mostfa-benabouda-513a25254)
 [![Instagram](https://img.shields.io/badge/Instagram-saadaoui_mostfa-312E81?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saadaoui_mostfa)
-[![Discord](https://img.shields.io/badge/Discord-423778703471017995-1E1B4B?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/423778703471017995)
+[![Discord](https://img.shields.io/badge/Discord-423778703471017995-1E1B4B?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mohamed_mostfa)
 [![Email](https://img.shields.io/badge/Email-mostfa.saadaoui@gmail.com-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostfa.saadaoui@gmail.com)
 
 <br/>
