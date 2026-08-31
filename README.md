@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AliesterEroan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=PLCn%20Programmer%20%7C%20Automation%20Industrial%20Computing%20Specialist%20%7C%20IoT%20Specialist&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AliesterEroan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=PLC%20Programmer%20%7C%20Automation%20Industrial%20&%20Computing%20Specialist%20%7C%20IoT%20Specialist&descAlignY=60&descAlign=50" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+Smart+Automation+Systems;ESP32+%26+Raspberry+Pi+Expert;Machine+Learning+%26+IoT+Integration;Industrial+Automation+%26+Industry+4.0)](https://git.io/typing-svg)
 
