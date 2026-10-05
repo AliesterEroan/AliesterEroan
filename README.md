@@ -300,11 +300,11 @@ Familio showcases full-stack development capabilities applied to a practical con
 
 <div align="center">
 
-![AliesterEroan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliesterEroan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&icon_color=7C3AED&title_color=7C3AED&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=AliesterEroan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliesterEroan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&icon_color=7C3AED&title_color=7C3AED&text_color=ffffff)](https://github.com/AliesterEroan)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AliesterEroan&theme=midnight-purple&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AliesterEroan&theme=midnight-purple&hide_border=true)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AliesterEroan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
