@@ -62,29 +62,29 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 
 <div align="center">
 
-**PLC & Industrial**
+**Languages & Embedded**
 
-[![PLC](https://skillicons.dev/icons?i=cpp,c,python&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,c,python,java,php,js,html,css&theme=dark)](https://skillicons.dev)
 
 **Hardware & IoT**
 
 [![Hardware](https://skillicons.dev/icons?i=raspberrypi,arduino,linux&theme=dark)](https://skillicons.dev)
 
-**Web & Frameworks**
+**Frameworks & Tools**
 
-[![Web](https://skillicons.dev/icons?i=django,nodejs,vue,nginx&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=django,nodejs,vue,tailwind,vite,nginx,apache&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark)](https://skillicons.dev)
 
 **Machine Learning**
 
 [![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,numpy,pandas&theme=dark)](https://skillicons.dev)
 
-**Tools & Collaboration**
+**Design & Collaboration**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker&theme=dark)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=figma,canva,ps,git,github&theme=dark)](https://skillicons.dev)
 
 </div>
 
