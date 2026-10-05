@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AliesterEroan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=PLC%20Programmer%20%7C%20Industrial%20Computing%20and%20Automation%20Specialist%20%7C%20IoT%20Specialist&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AliesterEroan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=PLC%20Programmer%20%7C%20Industrial%20Computing%20and%20Automation%20Specialist%20%7C%20IIoT%20Specialist&descAlignY=60&descAlign=50" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+Smart+Automation+Systems;ESP32+%26+Raspberry+Pi+Expert;Machine+Learning+%26+IoT+Integration;Industrial+Automation+%26+Industry+4.0)](https://git.io/typing-svg)
 
@@ -62,29 +62,29 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 
 <div align="center">
 
-**Languages & Embedded**
+**PLC & Industrial**
 
-[![Languages](https://skillicons.dev/icons?i=cpp,c,python,java,php,js,html,css&theme=dark)](https://skillicons.dev)
+[![PLC](https://skillicons.dev/icons?i=cpp,c,python&theme=dark)](https://skillicons.dev)
 
 **Hardware & IoT**
 
 [![Hardware](https://skillicons.dev/icons?i=raspberrypi,arduino,linux&theme=dark)](https://skillicons.dev)
 
-**Frameworks & Tools**
+**Web & Frameworks**
 
-[![Frameworks](https://skillicons.dev/icons?i=django,nodejs,vue,tailwind,vite,nginx,apache&theme=dark)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=django,nodejs,vue,nginx&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark)](https://skillicons.dev)
 
 **Machine Learning**
 
 [![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,numpy,pandas&theme=dark)](https://skillicons.dev)
 
-**Design & Collaboration**
+**Tools & Collaboration**
 
-[![Design](https://skillicons.dev/icons?i=figma,canva,ps,git,github&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -304,6 +304,20 @@ Familio showcases full-stack development capabilities applied to a practical con
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AliesterEroan&theme=midnight-purple&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliesterEroan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ Contributions
+
+</div>
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/dist/github-snake.svg)
 
 </div>
 
