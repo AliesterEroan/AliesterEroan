@@ -81,13 +81,13 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 **Machine Learning**
 
 [![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="32" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 
 **Design & Collaboration**
 
 [![Design](https://skillicons.dev/icons?i=figma,ps,git,github&theme=dark)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
 
 </div>
 
@@ -321,9 +321,9 @@ Familio showcases full-stack development capabilities applied to a practical con
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/dist/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/output/github-snake.svg" />
 </picture>
 
 </div>
