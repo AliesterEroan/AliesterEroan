@@ -311,6 +311,40 @@ Familio showcases full-stack development capabilities applied to a practical con
 
 <div align="center">
 
+## ◈ Contributions
+
+</div>
+
+<div align="center">
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/dist/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ Top Repositories
+
+</div>
+
+<div align="center">
+
+| Repository | Stars | Language | Description |
+|:---|:---:|:---:|:---|
+| [DiscordQuestManager](https://github.com/AliesterEroan/DiscordQuestManager) | ⭐ 8 | Python | Desktop automation utility for Discord Quests |
+| [Familio](https://github.com/AliesterEroan/Familio) | ⭐ 5 | Python | Family coordination platform with AI features |
+| [flutter_application_1](https://github.com/AliesterEroan/flutter_application_1) | ⭐ 4 | Dart | Flutter application project |
+| [detective_game](https://github.com/AliesterEroan/detective_game) | ⭐ 4 | Python | Interactive detective mystery game |
+| [dashboards](https://github.com/AliesterEroan/dashboards) | ⭐ 3 | HTML | Web-based data visualization dashboards |
+
+</div>
+
+---
+
+<div align="center">
+
 ## ◈ Random Dev Quote
 
 </div>
