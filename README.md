@@ -334,10 +334,11 @@ Familio showcases full-stack development capabilities applied to a practical con
 | Repository | Stars | Language | Description |
 |:---|:---:|:---:|:---|
 | [DiscordQuestManager](https://github.com/AliesterEroan/DiscordQuestManager) | ⭐ 8 | Python | Desktop automation utility for Discord Quests |
-| [Familio](https://github.com/AliesterEroan/Familio) | ⭐ 5 | Python | Family coordination platform with AI features |
-| [flutter_application_1](https://github.com/AliesterEroan/flutter_application_1) | ⭐ 4 | Dart | Flutter application project |
-| [detective_game](https://github.com/AliesterEroan/detective_game) | ⭐ 4 | Python | Interactive detective mystery game |
-| [dashboards](https://github.com/AliesterEroan/dashboards) | ⭐ 3 | HTML | Web-based data visualization dashboards |
+| [ESP32](https://github.com/AliesterEroan/ESP32) | ⭐ 3 | C++ | ESP32 microcontroller projects and IoT systems |
+| [Raspberry-pi](https://github.com/AliesterEroan/Raspberry-pi) | ⭐ 3 | C | Raspberry Pi IoT and industrial automation |
+| [Automatism-TiaPortal](https://github.com/AliesterEroan/Automatism-TiaPortal) | ⭐ 3 | PHP | Siemens TIA Portal industrial automation |
+| [line-Automatique-de-transport-de-semoline-](https://github.com/AliesterEroan/line-Automatique-de-transport-de-semoline-) | ⭐ 3 | QML | Semoline transport line automation (PFE) |
+| [predictive-maintenance](https://github.com/AliesterEroan/predictive-maintenance) | ⭐ 1 | Python | Industry 4.0 predictive maintenance system |
 
 </div>
 
