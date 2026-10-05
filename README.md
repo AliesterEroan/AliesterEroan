@@ -320,7 +320,7 @@ Familio showcases full-stack development capabilities applied to a practical con
 
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/dist/github-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/main/dist/github-snake.svg)
 
 </div>
 
