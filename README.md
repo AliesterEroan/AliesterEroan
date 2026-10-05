@@ -321,9 +321,9 @@ Familio showcases full-stack development capabilities applied to a practical con
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/dist/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/dist/github-snake.svg" />
 </picture>
 
 </div>
