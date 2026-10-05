@@ -311,20 +311,6 @@ Familio showcases full-stack development capabilities applied to a practical con
 
 <div align="center">
 
-## ◈ Contributions
-
-</div>
-
-<div align="center">
-
-![GitHub Snake Animation](https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/dist/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
 ## ◈ Top Repositories
 
 </div>
