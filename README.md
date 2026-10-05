@@ -18,11 +18,6 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-AliesterEroan-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliesterEroan)
-[![X](https://img.shields.io/badge/X-@AliesterEroan-4F46E5?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AliesterEroan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Mostfa-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-mostfa-benabouda-513a25254)
-[![Instagram](https://img.shields.io/badge/Instagram-saadaoui_mostfa-312E81?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saadaoui_mostfa)
-[![Discord](https://img.shields.io/badge/Discord-423778703471017995-1E1B4B?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/423778703471017995)
 [![Email](https://img.shields.io/badge/Email-mostfa.saadaoui@gmail.com-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostfa.saadaoui@gmail.com)
 
 <br/>
@@ -79,9 +74,13 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 
 [![Frameworks](https://skillicons.dev/icons?i=django,nodejs,vue,tailwind,vite,nginx,apache&theme=dark)](https://skillicons.dev)
 
-**Databases & ML**
+**Databases**
 
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,pytorch,tensorflow,opencv,numpy,pandas&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark)](https://skillicons.dev)
+
+**Machine Learning**
+
+[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,numpy,pandas&theme=dark)](https://skillicons.dev)
 
 **Design & Collaboration**
 
@@ -307,48 +306,6 @@ Familio showcases full-stack development capabilities applied to a practical con
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliesterEroan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-
----
-
-<div align="center">
-
-## ◈ GitHub Trophies
-
-</div>
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AliesterEroan&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ Top Contributed Repositories
-
-</div>
-
-<div align="center">
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=AliesterEroan&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ Contributions
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
