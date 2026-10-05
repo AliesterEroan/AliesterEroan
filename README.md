@@ -97,14 +97,14 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **ESP32 Development** | ████████████ Expert | Microcontroller programming, IoT sensors, wireless communication, firmware development |
-| **Raspberry Pi** | ████████████ Expert | Linux-based IoT systems, GPIO control, industrial monitoring, edge computing |
-| **Industrial Automation** | ██████████░░ Advanced | PLC programming, industrial protocols, TIA Portal, Siemens automation |
-| **Machine Learning** | █████████░░░ Proficient | HOG+SVM object detection, computer vision, industrial data analysis, model deployment |
-| **IoT Systems** | ████████████ Expert | MQTT protocols, sensor networks, data acquisition, real-time monitoring |
-| **Embedded C/C++** | ██████████░░ Advanced | Firmware development, memory optimization, real-time systems, hardware interfacing |
-| **Web Development** | █████████░░░ Proficient | Django, Vue.js, Node-RED, real-time dashboards, full-stack applications |
-| **Database Design** | ██████████░░ Advanced | MySQL, PostgreSQL, MongoDB, SQLite, industrial data modeling |
+| **ESP32 Development** | ████████░░░ Advanced | Microcontroller programming, IoT sensors, wireless communication, firmware development |
+| **Raspberry Pi** | ████████░░░ Advanced | Linux-based IoT systems, GPIO control, industrial monitoring, edge computing |
+| **Industrial Automation** | ███████░░░░ Proficient | PLC programming, industrial protocols, TIA Portal, Siemens automation |
+| **Machine Learning** | ██████░░░░░ Intermediate | HOG+SVM object detection, computer vision, industrial data analysis, model deployment |
+| **IoT Systems** | ████████░░░ Advanced | MQTT protocols, sensor networks, data acquisition, real-time monitoring |
+| **Embedded C/C++** | ███████░░░░ Proficient | Firmware development, memory optimization, real-time systems, hardware interfacing |
+| **Web Development** | ██████░░░░░ Intermediate | Django, Vue.js, Node-RED, real-time dashboards, full-stack applications |
+| **Database Design** | ███████░░░░ Proficient | MySQL, PostgreSQL, MongoDB, SQLite, industrial data modeling |
 
 </div>
 
@@ -300,19 +300,11 @@ Familio showcases full-stack development capabilities applied to a practical con
 
 <div align="center">
 
-<<<<<<< HEAD
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliesterEroan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AliesterEroan&theme=midnight-purple&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliesterEroan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-=======
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=AliesterEroan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AliesterEroan&theme=midnight-purple&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AliesterEroan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
->>>>>>> 32a0f520521c308ecfd8d185ded360233c3eed3f
 
 </div>
 
@@ -386,11 +378,7 @@ I'm always open to discussing industrial automation, IoT projects, machine learn
 [![X](https://img.shields.io/badge/X-@AliesterEroan-4F46E5?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AliesterEroan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Mostfa-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-mostfa-benabouda-513a25254)
 [![Instagram](https://img.shields.io/badge/Instagram-saadaoui_mostfa-312E81?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saadaoui_mostfa)
-<<<<<<< HEAD
 [![Discord](https://img.shields.io/badge/Discord-423778703471017995-1E1B4B?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/423778703471017995)
-=======
-[![Discord](https://img.shields.io/badge/Discord-423778703471017995-1E1B4B?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/423778703471017995)
->>>>>>> 32a0f520521c308ecfd8d185ded360233c3eed3f
 [![Email](https://img.shields.io/badge/Email-mostfa.saadaoui@gmail.com-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostfa.saadaoui@gmail.com)
 
 ---
