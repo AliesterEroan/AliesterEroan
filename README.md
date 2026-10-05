@@ -72,7 +72,11 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 
 **Frameworks & Tools**
 
-[![Frameworks](https://skillicons.dev/icons?i=django,nodejs,vue,tailwind,vite,nginx,apache&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=django,nodejs,vue,tailwind,vite,nginx&theme=dark)](https://skillicons.dev)
+
+**Web Server**
+
+<img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/apache.svg" alt="Apache" width="40" height="40"/>
 
 **Databases**
 
@@ -80,11 +84,14 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 
 **Machine Learning**
 
-[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,numpy,pandas&theme=dark)](https://skillicons.dev)
+[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 
 **Design & Collaboration**
 
-[![Design](https://skillicons.dev/icons?i=figma,canva,ps,git,github&theme=dark)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=figma,ps,git,github&theme=dark)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
 
 </div>
 
@@ -317,7 +324,11 @@ Familio showcases full-stack development capabilities applied to a practical con
 
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/dist/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/dist/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/AliesterEroan/AliesterEroan/dist/github-snake.svg" />
+</picture>
 
 </div>
 
