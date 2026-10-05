@@ -74,10 +74,6 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 
 [![Frameworks](https://skillicons.dev/icons?i=django,nodejs,vue,tailwind,vite,nginx&theme=dark)](https://skillicons.dev)
 
-**Web Server**
-
-<img src="https://cdn.jsdelivr.net/npm/@dev.icons/core@latest/export-files/icons/apache.svg" alt="Apache" width="40" height="40"/>
-
 **Databases**
 
 [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark)](https://skillicons.dev)
@@ -85,13 +81,13 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 **Machine Learning**
 
 [![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="32" height="32"/>
 
 **Design & Collaboration**
 
 [![Design](https://skillicons.dev/icons?i=figma,ps,git,github&theme=dark)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="32" height="32"/>
 
 </div>
 
