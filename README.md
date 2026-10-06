@@ -6,9 +6,8 @@
 
 <br/>
 
-![Automation](https://img.shields.io/badge/Specialist-Automation%20and%20Industrial%20Computing-7C3AED?style=for-the-badge&logo=industry&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-4B5563?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation%20%7C%20PLCs%20%7C%20ESP32%20%7C%20Raspberry%20Pi%20%7C%20IIoT-7C3AED?style=for-the-badge&logo=industry&logoColor=white)
+![Specialist](https://img.shields.io/badge/Specialist-Automation%20and%20Industrial%20Computing-7C3AED?style=for-the-badge&logo=industry&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-PLCs%20%7C%20ESP32%20%7C%20Raspberry%20Pi%20%7C%20IIoT-4B5563?style=for-the-badge)
 ![ML](https://img.shields.io/badge/Passion-Machine%20Learning%20%26%20AI-6D28D9?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 <br/>
