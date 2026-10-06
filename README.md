@@ -94,6 +94,8 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 <div align="center">
 
 ## ◈ Expertise
+</div>
+
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
 | **ESP32 Development** | ████████░░░ Advanced | Microcontroller programming, IoT sensors, wireless communication, firmware development |
