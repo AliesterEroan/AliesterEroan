@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AliesterEroan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=PLC%20Programmer%20%7C%20Industrial%20Computing%20and%20Automation%20Specialist%20%7C%20IIoT%20Specialist&descAlignY=60&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+Smart+Automation+Systems;ESP32+%26+Raspberry+Pi+Expert;Machine+Learning+%26+IIoT+Integration;Industrial+Automation+%26+Industry+4.0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+Smart+Automation+Systems;PLC+Programming+%26+Industrial+Automation;ESP32+%26+Raspberry+Pi+Expert;Machine+Learning+%26+IIoT+Integration;Industry+4.0+%26+Smart+Factories)](https://git.io/typing-svg)
 
 <br/>
 
 ![Specialist](https://img.shields.io/badge/Specialist-Automation%20and%20Industrial%20Computing-7C3AED?style=for-the-badge&logo=industry&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-PLCs%20%7C%20ESP32%20%7C%20Raspberry%20Pi%20%7C%20IIoT-4B5563?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-PLCs%20%7C%20ESP32%20%7C%20Raspberry%20Pi%20%7C%20IIoT-7C3AED?style=for-the-badge)
 ![ML](https://img.shields.io/badge/Passion-Machine%20Learning%20%26%20AI-6D28D9?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 <br/>
