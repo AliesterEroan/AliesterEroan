@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AliesterEroan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=PLC%20Programmer%20%7C%20Industrial%20Computing%20and%20Automation%20Specialist%20%7C%20IIoT%20Specialist&descAlignY=60&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+Smart+Automation+Systems;ESP32+%26+Raspberry+Pi+Expert;Machine+Learning+%26+IoT+Integration;Industrial+Automation+%26+Industry+4.0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+Smart+Automation+Systems;ESP32+%26+Raspberry+Pi+Expert;Machine+Learning+%26+IIoT+Integration;Industrial+Automation+%26+Industry+4.0)](https://git.io/typing-svg)
 
 <br/>
 
 ![Automation](https://img.shields.io/badge/Specialist-Automation%20and%20Industrial%20Computing-7C3AED?style=for-the-badge&logo=industry&logoColor=white)
-![IoT](https://img.shields.io/badge/Focus-ESP32%20%7C%20Raspberry%20Pi%20%7C%20IoT-4F46E5?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation%20%7C%20PLCs%20%7C%20ESP32%20%7C%20Raspberry%20Pi%20%7C%20IIoT-4F46E5?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![ML](https://img.shields.io/badge/Passion-Machine%20Learning%20%26%20AI-6D28D9?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 <br/>
@@ -23,8 +23,8 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AliesterEroan&color=7C3AED&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/AliesterEroan?color=4F46E5&style=flat-square&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/AliesterEroan?color=6D28D9&style=flat-square&logo=github&label=Total+Stars)
+![GitHub followers](https://img.shields.io/github/followers/AliesterEroan?color=4F46E5&style=flat-square&logo=github&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/AliesterEroan?color=6D28D9&style=flat-square&logo=github&label=Total+Stars)
 
 </div>
 
@@ -285,7 +285,9 @@ Familio showcases full-stack development capabilities applied to a practical con
 
 | Area | Description | Status |
 |:---|:---|:---:|
-| **Industrial Automation** | PLC programming, industrial protocols, manufacturing systems | 🔥 Active |
+| **Automation** | PLC programming, industrial protocols, manufacturing systems | 🔥 Active |
+| **PLCs** | Siemens TIA Portal, ladder logic, function blocks, HMI | 🔥 Active |
+| **Industrial Computing** | Edge computing, industrial PCs, Linux systems | 🔥 Active |
 | **IoT Development** | ESP32/Raspberry Pi projects, sensor networks, edge computing | 🔥 Active |
 | **Machine Learning** | Computer vision, predictive maintenance, industrial AI | 🔥 Active |
 | **Embedded Systems** | Microcontroller programming, firmware development, real-time systems | 🔥 Active |
