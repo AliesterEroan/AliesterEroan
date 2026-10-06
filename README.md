@@ -33,7 +33,6 @@
 <div align="center">
 
 ## ◈ About
-
 </div>
 
 ```
@@ -57,7 +56,6 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 <div align="center">
 
 ## ◈ Tech Stack
-
 </div>
 
 <div align="center">
@@ -96,7 +94,6 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 <div align="center">
 
 ## ◈ Expertise
-
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
 | **ESP32 Development** | ████████░░░ Advanced | Microcontroller programming, IoT sensors, wireless communication, firmware development |
@@ -107,7 +104,6 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 | **Embedded C/C++** | ███████░░░░ Proficient | Firmware development, memory optimization, real-time systems, hardware interfacing |
 | **Web Development** | ██████░░░░░ Intermediate | Django, Vue.js, Node-RED, real-time dashboards, full-stack applications |
 | **Database Design** | ███████░░░░ Proficient | MySQL, PostgreSQL, MongoDB, SQLite, industrial data modeling |
-
 </div>
 
 ---
@@ -115,7 +111,6 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 <div align="center">
 
 ## ◈ Featured Projects
-
 </div>
 
 <details>
@@ -242,7 +237,6 @@ Familio showcases full-stack development capabilities applied to a practical con
 <div align="center">
 
 ## ◈ Technical Skills
-
 </div>
 
 **Hardware & Platforms**
@@ -280,7 +274,6 @@ Familio showcases full-stack development capabilities applied to a practical con
 <div align="center">
 
 ## ◈ Focus Areas
-
 </div>
 
 | Area | Description | Status |
@@ -299,7 +292,6 @@ Familio showcases full-stack development capabilities applied to a practical con
 <div align="center">
 
 ## ◈ GitHub Stats
-
 </div>
 
 <div align="center">
@@ -317,7 +309,6 @@ Familio showcases full-stack development capabilities applied to a practical con
 <div align="center">
 
 ## ◈ Contributions
-
 </div>
 
 <div align="center">
@@ -331,7 +322,6 @@ Familio showcases full-stack development capabilities applied to a practical con
 <div align="center">
 
 ## ◈ Top Repositories
-
 </div>
 
 <div align="center">
@@ -352,7 +342,6 @@ Familio showcases full-stack development capabilities applied to a practical con
 <div align="center">
 
 ## ◈ Random Dev Quote
-
 </div>
 
 <div align="center">
@@ -366,7 +355,6 @@ Familio showcases full-stack development capabilities applied to a practical con
 <div align="center">
 
 ## ◈ Contact & Collaboration
-
 </div>
 
 I'm always open to discussing industrial automation, IoT projects, machine learning applications, or potential collaborations in the automation space. Whether you're working on Industry 4.0 implementations, embedded systems, or smart automation solutions, let's connect!
