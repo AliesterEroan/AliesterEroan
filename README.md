@@ -75,10 +75,10 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 **Industrial Automation**
 
 [![Industrial](https://img.shields.io/badge/TIA%20Portal-Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/global/en/products/automation/industrial-software/automation-software-tia-portal)
+[![Siemens PLCs](https://img.shields.io/badge/S1200-S1500-Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/global/en/products/industrial-controls/plc/simatic-controller/)
 [![Delta](https://img.shields.io/badge/Delta%20Automate-industrial-696969?style=for-the-badge&logo=delta&logoColor=white)](https://www.deltaww.com/)
-[![TwinCAT](https://img.shields.io/badge/TwinCAT-Beckhoff-FF6600?style=for-the-badge&logo=beckhoff&logoColor=white)](https://www.beckhoff.com/en-us/products/twincat/)
-[![ISPSoft](https://img.shields.io/badge/ISPSoft-industrial-FF6600?style=for-the-badge)](https://www.ispssoft.com/)
-[![DroSoft](https://img.shields.io/badge/DroSoft-industrial-696969?style=for-the-badge)](https://www.drosoft.com/)
+[![ISPSoft](https://img.shields.io/badge/ISPSoft-Delta-FF6600?style=for-the-badge)](https://www.deltaww.com/en-US/service-support/download-center?sectionId=2)
+[![DroSoft](https://img.shields.io/badge/DroSoft-Delta-696969?style=for-the-badge)](https://www.deltaww.com/en-US/service-support/download-center?sectionId=2)
 
 **Databases**
 
