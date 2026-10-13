@@ -75,8 +75,8 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 **Industrial Automation**
 
 [![Industrial](https://img.shields.io/badge/TIA%20Portal-Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/global/en/products/automation/industrial-software/automation-software-tia-portal)
-[![Siemens PLCs](https://img.shields.io/badge/S1200-S1500-Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/global/en/products/industrial-controls/plc/simatic-controller/)
-[![Delta](https://img.shields.io/badge/Delta%20Automate-industrial-696969?style=for-the-badge&logo=delta&logoColor=white)](https://www.deltaww.com/)
+[![Siemens PLCs](https://img.shields.io/badge/Simatic%20S1200-S1500-Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/global/en/products/industrial-controls/plc/simatic-controller/)
+[![Delta PLC](https://img.shields.io/badge/Delta%20PLC-industrial-696969?style=for-the-badge&logo=delta&logoColor=white)](https://www.deltaww.com/)
 [![ISPSoft](https://img.shields.io/badge/ISPSoft-Delta-FF6600?style=for-the-badge)](https://www.deltaww.com/en-US/service-support/download-center?sectionId=2)
 [![DopSoft](https://img.shields.io/badge/DopSoft-Delta-696969?style=for-the-badge)](https://www.deltaww.com/en-US/service-support/download-center?sectionId=2)
 
