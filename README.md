@@ -75,10 +75,8 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 **Industrial Automation**
 
 [![Industrial](https://img.shields.io/badge/TIA%20Portal-Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/global/en/products/automation/industrial-software/automation-software-tia-portal)
-[![Siemens PLCs](https://img.shields.io/badge/Simatic%20S1200-S1500-Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/global/en/products/industrial-controls/plc/simatic-controller/)
-[![Delta PLC](https://img.shields.io/badge/Delta%20PLC-industrial-696969?style=for-the-badge&logo=delta&logoColor=white)](https://www.deltaww.com/)
 [![ISPSoft](https://img.shields.io/badge/ISPSoft-Delta-FF6600?style=for-the-badge)](https://www.deltaww.com/en-US/service-support/download-center?sectionId=2)
-[![DopSoft](https://img.shields.io/badge/DopSoft-Delta-696969?style=for-the-badge)](https://www.deltaww.com/en-US/service-support/download-center?sectionId=2)
+[![DopSoft](https://img.shields.io/badge/DopSoft-Delta-FF6600?style=for-the-badge)](https://www.deltaww.com/en-US/service-support/download-center?sectionId=2)
 
 **Databases**
 
@@ -109,6 +107,7 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 | **ESP32 Development** | ████████░░░ Advanced | Microcontroller programming, IoT sensors, wireless communication, firmware development |
 | **Raspberry Pi** | ████████░░░ Advanced | Linux-based IoT systems, GPIO control, industrial monitoring, edge computing |
 | **Industrial Automation** | ███████░░░░ Proficient | PLC programming, industrial protocols, TIA Portal, Siemens automation |
+| **PLCs** | ███████░░░░ Proficient | Simatic S1200-S1500, Delta PLC, ladder logic, function blocks, HMI integration |
 | **Machine Learning** | ██████░░░░░ Intermediate | HOG+SVM object detection, computer vision, industrial data analysis, model deployment |
 | **IoT Systems** | ████████░░░ Advanced | MQTT protocols, sensor networks, data acquisition, real-time monitoring |
 | **Embedded C/C++** | ███████░░░░ Proficient | Firmware development, memory optimization, real-time systems, hardware interfacing |
