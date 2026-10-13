@@ -72,6 +72,14 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 
 [![Frameworks](https://skillicons.dev/icons?i=django,nodejs,vue,tailwind,vite,nginx&theme=dark)](https://skillicons.dev)
 
+**Industrial Automation**
+
+[![Industrial](https://img.shields.io/badge/TIA%20Portal-Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/global/en/products/automation/industrial-software/automation-software-tia-portal)
+[![Delta](https://img.shields.io/badge/Delta%20Automate-industrial-696969?style=for-the-badge&logo=delta&logoColor=white)](https://www.deltaww.com/)
+[![TwinCAT](https://img.shields.io/badge/TwinCAT-Beckhoff-FF6600?style=for-the-badge&logo=beckhoff&logoColor=white)](https://www.beckhoff.com/en-us/products/twincat/)
+[![ISPSoft](https://img.shields.io/badge/ISPSoft-industrial-FF6600?style=for-the-badge)](https://www.ispssoft.com/)
+[![DroSoft](https://img.shields.io/badge/DroSoft-industrial-696969?style=for-the-badge)](https://www.drosoft.com/)
+
 **Databases**
 
 [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark)](https://skillicons.dev)
