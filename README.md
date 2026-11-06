@@ -74,7 +74,7 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 
 **Industrial Automation**
 
-[![Industrial](https://img.shields.io/badge/TIA%20Portal-Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/global/en/products/automation/industrial-software/automation-software-tia-portal)
+[![Industrial](https://img.shields.io/badge/TIA%20Portal-Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal.html)
 [![ISPSoft](https://img.shields.io/badge/ISPSoft-Delta-FF6600?style=for-the-badge)](https://www.deltaww.com/en-US/service-support/download-center?sectionId=2)
 [![DopSoft](https://img.shields.io/badge/DopSoft-Delta-FF6600?style=for-the-badge)](https://www.deltaww.com/en-US/service-support/download-center?sectionId=2)
 
