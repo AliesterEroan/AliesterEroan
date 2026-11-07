@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AliesterEroan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=PLC%20Programmer%20%7C%20Industrial%20Computing%20and%20Automation%20Specialist%20%7C%20IIoT%20Specialist&descAlignY=60&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+Smart+Automation+Systems;PLC+Programming+%26+Industrial+Automation;ESP32+%26+Raspberry+Pi+Expert;Machine+Learning+%26+IIoT+Integration;Industry+4.0+%26+Smart+Factories)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+Smart+Automation+Systems;ESP32+%26+Raspberry+Pi+Expert;Machine+Learning+%26+IIoT+Integration;Industrial+Automation+%26+Industry+4.0)](https://git.io/typing-svg)
 
 <br/>
 
-![Specialist](https://img.shields.io/badge/Specialist-Automation%20and%20Industrial%20Computing-7C3AED?style=for-the-badge&logo=industry&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-PLCs%20%7C%20ESP32%20%7C%20Raspberry%20Pi%20%7C%20IIoT-7C3AED?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Specialist-Automation%20and%20Industrial%20Computing-7C3AED?style=for-the-badge&logo=industry&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation%20%7C%20PLCs%20%7C%20ESP32%20%7C%20Raspberry%20Pi%20%7C%20IIoT-7C3AED?style=for-the-badge&logo=industry&logoColor=white)
 ![ML](https://img.shields.io/badge/Passion-Machine%20Learning%20%26%20AI-6D28D9?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 <br/>
@@ -33,6 +33,7 @@
 <div align="center">
 
 ## ◈ About
+
 </div>
 
 ```
@@ -56,6 +57,7 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 <div align="center">
 
 ## ◈ Tech Stack
+
 </div>
 
 <div align="center">
@@ -100,7 +102,6 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 <div align="center">
 
 ## ◈ Expertise
-</div>
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
@@ -113,6 +114,7 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 | **Embedded C/C++** | ███████░░░░ Proficient | Firmware development, memory optimization, real-time systems, hardware interfacing |
 | **Web Development** | ██████░░░░░ Intermediate | Django, Vue.js, Node-RED, real-time dashboards, full-stack applications |
 | **Database Design** | ███████░░░░ Proficient | MySQL, PostgreSQL, MongoDB, SQLite, industrial data modeling |
+
 </div>
 
 ---
@@ -120,6 +122,7 @@ Beyond hardware integration, I develop custom desktop utilities and full-stack w
 <div align="center">
 
 ## ◈ Featured Projects
+
 </div>
 
 <details>
@@ -246,6 +249,7 @@ Familio showcases full-stack development capabilities applied to a practical con
 <div align="center">
 
 ## ◈ Technical Skills
+
 </div>
 
 **Hardware & Platforms**
@@ -283,6 +287,7 @@ Familio showcases full-stack development capabilities applied to a practical con
 <div align="center">
 
 ## ◈ Focus Areas
+
 </div>
 
 | Area | Description | Status |
@@ -301,15 +306,16 @@ Familio showcases full-stack development capabilities applied to a practical con
 <div align="center">
 
 ## ◈ GitHub Stats
+
 </div>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliesterEroan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=AliesterEroan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AliesterEroan&theme=midnight-purple&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliesterEroan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=AliesterEroan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -318,6 +324,7 @@ Familio showcases full-stack development capabilities applied to a practical con
 <div align="center">
 
 ## ◈ Contributions
+
 </div>
 
 <div align="center">
@@ -331,6 +338,7 @@ Familio showcases full-stack development capabilities applied to a practical con
 <div align="center">
 
 ## ◈ Top Repositories
+
 </div>
 
 <div align="center">
@@ -351,6 +359,7 @@ Familio showcases full-stack development capabilities applied to a practical con
 <div align="center">
 
 ## ◈ Random Dev Quote
+
 </div>
 
 <div align="center">
@@ -364,6 +373,7 @@ Familio showcases full-stack development capabilities applied to a practical con
 <div align="center">
 
 ## ◈ Contact & Collaboration
+
 </div>
 
 I'm always open to discussing industrial automation, IoT projects, machine learning applications, or potential collaborations in the automation space. Whether you're working on Industry 4.0 implementations, embedded systems, or smart automation solutions, let's connect!
