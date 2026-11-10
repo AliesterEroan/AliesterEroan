@@ -14,7 +14,7 @@
 
 ![Location](https://img.shields.io/badge/📍-Tunisia-1E1B4B?style=flat-square&labelColor=312E81&color=4338CA)
 ![Open To](https://img.shields.io/badge/Status-Open%20To%20Collaborations-22C55E?style=flat-square&labelColor=14532D)
-![Projects](https://img.shields.io/badge/Projects-13%20Repositories-00629B?style=flat-square&logo=github&logoColor=white)
+![Projects](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAliesterEroan&query=%24.public_repos&label=Projects&suffix=%20Repositories&color=00629B&style=flat-square&logo=github&logoColor=white)
 
 <br/>
 
